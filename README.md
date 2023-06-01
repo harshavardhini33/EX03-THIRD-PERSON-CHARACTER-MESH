@@ -74,7 +74,7 @@ To Change the third person character mesh and add animations
 ## OUTPUT:
 
 ### ANIMATIONS:
-![Uploading Screenshot (67).png…]()
+![HI](./ANIMATIONS.png)
 
 ### STATE MACHINES:
 ![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/c0aef584-f0d0-412e-8146-39f81157601d)
