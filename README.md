@@ -79,21 +79,17 @@ To Change the third person character mesh and add animations
 ### STATE MACHINES:
 ![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/c0aef584-f0d0-412e-8146-39f81157601d)
 
-
 ### STATE DIAGRAM:
 ![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/64df2671-740a-4ef5-b402-3b827876310b)
 
-
 ### VARIABLES:
 ![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/46ce9822-7e6f-40b4-921d-3fb2707f703f)
-
 
 ### IDLE TO WALK:
 ![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/7a8bbd64-ab15-445f-9280-e6155633f830)
 
 ### WALK TO IDLE:
 ![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/a46cbe0c-6ff6-4180-a4fe-b6f7387fc4c6)
-
 
 ### WALK TO JUMP:
 ![image](https://github.com/Aashima02/Third-Person-Character-Mesh-/assets/93427086/7096c02a-a7ed-4953-b2ba-2bfe2247cc9d)
